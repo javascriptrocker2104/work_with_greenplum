@@ -15,8 +15,10 @@ Password: postgres
 Напишите запрос, который рассчитывает сумму продаж определенного товара за определенную единицу времени. 
 
 Результат:
+
 ![$screenshot](https://github.com/javascriptrocker2104/work_with_greenplum/blob/main/greenplum/result.png)
 
 План предыдущего запроса: 
-![$screenshot]([https://github.com/javascriptrocker2104/work_with_hadoop/blob/main/hadoop.png](https://github.com/javascriptrocker2104/work_with_greenplum/blob/main/greenplum/query%20plan.png)https://github.com/javascriptrocker2104/work_with_greenplum/blob/main/greenplum/query%20plan.png)
+
+![$screenshot](https://github.com/javascriptrocker2104/work_with_greenplum/blob/main/greenplum/query%20plan.png)
 
